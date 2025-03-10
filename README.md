@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hirafatima-dev&label=Profile%20views&color=0e75b6&style=flat" alt="hirafatima-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hirafatima-dev&theme=onedark" alt="hirafatima-dev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hirafatima-dev&theme=onedark&title=-Stars,-Followers,-Experience" alt="hirafatima-dev" /></a> </p>
 
 - 🔭 I’m currently working on **Container Management System**
 
