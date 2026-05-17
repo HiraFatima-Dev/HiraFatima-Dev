@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hirafatima-dev&theme=onedark&title=-Stars,-Followers,-Experience" alt="hirafatima-dev" /></a> </p>
 
-- 🔭 I’m currently working on **Container Management System**
-
+- 🔭 I’m currently working on **Multi Tenant System**
+- ☁️ AWS Certified Solutions Architect – Associate
 - 📫 How to reach me **hirafatima.developer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
